@@ -1,5 +1,13 @@
 # random_notes
 
+## ssh jumping
+
+### socks proxy
+
+```
+$ ssh -ND 8888 user@server
+```
+
 ## random sleep
 
 ### gnu bash
